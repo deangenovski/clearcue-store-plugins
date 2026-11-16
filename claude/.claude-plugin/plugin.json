@@ -1,0 +1,8 @@
+{
+  "name": "clearcue",
+  "displayName": "Clearcue",
+  "version": "1.0.0",
+  "description": "Find the companies and people showing buying intent in your Clearcue workspace, and turn them into ranked accounts, pre-call briefs, messages and target lists from a conversation.",
+  "author": { "name": "Clearcue", "url": "https://clearcue.ai" },
+  "homepage": "https://docs.clearcue.ai/mcp/overview"
+}

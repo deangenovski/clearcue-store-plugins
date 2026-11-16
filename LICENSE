@@ -1,0 +1,10 @@
+Copyright (c) 2026 Tribie Ltd (Clearcue). All rights reserved.
+
+This repository is published so that the Clearcue plugins can be listed in
+and installed from Anthropic's and OpenAI's plugin directories. No licence is
+granted to copy, modify, distribute or create derivative works from any part
+of it, other than installing and using the plugins through those directories
+or their client applications.
+
+Use of the Clearcue service is governed by the Clearcue Terms of Use:
+https://clearcue.ai/terms-of-use

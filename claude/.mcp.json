@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "clearcue": {
+      "type": "http",
+      "url": "https://api.tools.clearcue.ai/mcp"
+    }
+  }
+}

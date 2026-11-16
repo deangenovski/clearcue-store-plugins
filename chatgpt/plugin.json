@@ -1,0 +1,26 @@
+{
+  "name": "clearcue",
+  "version": "1.0.0",
+  "description": "Find companies and people showing buying intent on LinkedIn and the web, and act on them from ChatGPT.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Clearcue",
+        "shortDescription": "Find companies and people showing buying intent, and act on them.",
+        "longDescription": "Clearcue watches LinkedIn and the web for the moments that signal a company is ready to buy: new hires in the roles you sell to, job posts, funding, competitor engagement, event attendance and more. Connect your Clearcue workspace to rank your hottest accounts, prepare pre-call briefs, find decision makers, write signal-based messages, build target lists from conferences, and set up new signals in plain language.",
+        "developerName": "Clearcue",
+        "category": "Productivity",
+        "websiteURL": "https://clearcue.ai",
+        "supportURL": "https://docs.clearcue.ai/mcp/overview",
+        "privacyPolicyURL": "https://clearcue.ai/privacy-policy",
+        "termsOfServiceURL": "https://clearcue.ai/terms-of-use",
+        "logo": "./icon.png",
+        "defaultPrompt": [
+          "Show me my 10 hottest accounts this week in Clearcue.",
+          "Prepare a one-page brief for my call with Acme.",
+          "Suggest which buying signals I should track for my company."
+        ]
+      }
+    }
+  }
+}
